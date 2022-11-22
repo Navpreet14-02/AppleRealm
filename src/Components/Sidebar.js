@@ -51,7 +51,7 @@ function Sidebar() {
       </div>
 
       <div className="more side-div">
-        <p>MORE</p>
+        <p style={{textAlign:'center'}}>MORE</p>
       </div>
     </div>
   )

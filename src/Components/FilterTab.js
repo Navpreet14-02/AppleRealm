@@ -24,11 +24,14 @@ function FilterTab() {
                         <option value="15">15</option>
                     </select>
                 </div>
-
+                
             </div>
             <div className="orientation">
                 <FaTh style={{color:'#2678BF'}} />
                 <FaBars />
+            </div>
+            <div className="resp-filter">
+                <p>Filter</p>
             </div>
         </div>
     )
