@@ -3,8 +3,10 @@ import Banner from '../Components/Banner'
 import FilterTab from '../Components/FilterTab'
 import Product from '../Components/Product'
 import Sidebar from '../Components/Sidebar'
-import Pagination from "https://cdn.skypack.dev/rc-pagination@3.1.15";
+import Pagination from "rc-pagination";
 import {FaAngleDoubleLeft,FaAngleDoubleRight} from 'react-icons/fa'
+
+
 function Store(props) {
 
 
